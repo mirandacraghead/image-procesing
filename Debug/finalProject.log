@@ -1,0 +1,9 @@
+﻿  finalProject.cpp
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(126): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\miranda\source\repos\finalproject\finalproject\finalproject.cpp(241): warning C4018: '<': signed/unsigned mismatch
+  finalProject.vcxproj -> C:\Users\miranda\source\repos\finalProject\Debug\finalProject.exe
